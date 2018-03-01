@@ -1,0 +1,27 @@
+{
+  "name": "learning_aws_lambda_graphql",
+  "version": "1.0.0",
+  "description": "A project for learning purposes following this tutorial https://cloudacademy.com/blog/how-to-write-graphql-apps-using-aws-lambda/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easonsun/learning_aws_lambda_graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easonsun/learning_aws_lambda_graphql/issues"
+  },
+  "homepage": "https://github.com/easonsun/learning_aws_lambda_graphql#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1"
+  }
+}
